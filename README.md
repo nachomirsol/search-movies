@@ -1,8 +1,6 @@
 # SEARCH MOVIES
 Search movies is a **React** app that uses omdb API to request info about your favourite films.
 
-![preview](preview.png)
-
 ## Technology
 
 Create React App => [Create React App](https://github.com/facebook/create-react-app).  
